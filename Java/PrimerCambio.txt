@@ -1,0 +1,1 @@
+In this article I tried to cover all the topics from .NET Reflection with examples. I have stated with definition of .NET Reflection and its road map, list of mostly used classes the System.Reflection namespace provides and importance of Type class in .net Reflection. You will also learn how to get the type information using different ways. U
